@@ -18,6 +18,6 @@
   </br>
   </br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=invictus-15&show_icons=true&theme=bear">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=invictus-15&hide=css,html&theme=tokyonight">
+<!--   <img src = "https://github-readme-stats.vercel.app/api?username=invictus-15&show_icons=true&theme=bear"> -->
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=invictus-15&hide=css,html&theme=tokyonight"> -->
 </p>
